@@ -38,4 +38,5 @@ end
 
 def using_flatten(array)
   array.flatten
+  #takes an array of arrays and flattens to one array
 end
