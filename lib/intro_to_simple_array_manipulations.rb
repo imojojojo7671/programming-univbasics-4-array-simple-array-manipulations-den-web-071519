@@ -28,4 +28,5 @@ end
 
 def using_insert(array, element)
   array.insert(4, element)
+  # insert - first argument is index and second what is added
 end
