@@ -40,3 +40,11 @@ def using_flatten(array)
   array.flatten
   #takes an array of arrays and flattens to one array
 end
+
+def using_delete(array, string)
+  array.delete(string)
+  #deletes examples of that string from array
+end
+
+def using_delete_at(array, integer)
+  
