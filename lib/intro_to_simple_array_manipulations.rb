@@ -30,3 +30,12 @@ def using_insert(array, element)
   array.insert(4, element)
   # insert - first argument is index and second what is added
 end
+
+def using_uniq(array)
+  array.uniq
+  #eliminates duplicates in array
+end
+
+def using_flatten(array)
+  array.flatten
+end
